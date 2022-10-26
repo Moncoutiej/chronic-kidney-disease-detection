@@ -69,3 +69,4 @@ wcwidth==0.2.5
 wheel==0.37.1
 xgboost==1.6.2
 yarg==0.1.9
+yellowbrick==1.5
