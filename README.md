@@ -44,7 +44,9 @@ In the created folders we can find :
 
 
 ## Instalation
-To install the differents python packages used in the scipt/notebooks, you can use [pip](https://pip.pypa.io/en/stable/installation/) :
+Install [Python 3.9.13](https://www.python.org/downloads/release/python-3913/)
+
+Then to install the differents python packages used in the script and notebooks, you can use [pip](https://pip.pypa.io/en/stable/installation/) :
 ```
 cd path/to/repo/directory
 pip install -r requirements.txt
