@@ -1,0 +1,10 @@
+{
+    "dataset_dir" : "Chronic_Kidney_Disease",
+    "dataset_file" : "chronic_kidney_disease.arff",
+    "dataset_info_file" : "chronic_kidney_disease.info.txt",
+    "train_dir" : "trainings",
+    "target_col" : "class",
+    "dropna" : true,
+    "test_size": 0.25,
+    "random_seed": 42
+}
